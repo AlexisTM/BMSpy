@@ -1,0 +1,6 @@
+bms.egg-info/
+*.pyc
+build
+dist
+temp
+*.swp
